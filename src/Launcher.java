@@ -32,6 +32,7 @@ public class Launcher {
                 s = 0;
                 continue;
             }
+            s = 0;
             if (out) return;
         }
     }
